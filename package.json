@@ -13,13 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mithsin/mySql-bamazon.git"
+    "url": "git+https://github.com/Mikhail13S/bamazon"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mithsin/mySql-bamazon/issues"
+    "url": "https://github.com/Mikhail13S/bamazon/issues"
   },
-  "homepage": "https://github.com/mithsin/mySql-bamazon#readme"
-}
